@@ -1,0 +1,25 @@
+.container{
+    width:50%;
+    margin:auto;
+    background-color: darkblue;
+    border-radius: 1rem;
+    border: 1rem solid darkblue
+}
+button {
+    width: 25%;
+    padding:10px;
+    background-color: cornflowerblue;
+    border-radius: 1rem;
+}
+
+.display {
+    font-size: 2em;
+    padding: 5px;
+    border: 5px solid black;
+    margin: auto;
+    color:cadetblue;
+    background-color: aquamarine;
+}
+.row {
+    margin: auto;
+}
